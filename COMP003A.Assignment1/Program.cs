@@ -11,7 +11,7 @@ namespace COMP003A.Assignment1
         static void Main(string[] args)
         {
             //Prompt user for name
-            Console.WriteLine("Enter your name: ");
+            Console.Write("Enter your name: ");
             string name = Console.ReadLine();
 
             //Greet user
